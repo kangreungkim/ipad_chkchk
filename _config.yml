@@ -22,10 +22,10 @@ description: > # this means to ignore newlines until "baseurl:"
   최신 앱 정보와 유료앱을 무료로 이용할 수 있는 정보까지...
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/ipad_chkchk" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://kangreungkim.github.io" # the base hostname & protocol for your site
+url: "https://ipad.chkchk.co.kr" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/kangreungkim/ipad_chkchk"
