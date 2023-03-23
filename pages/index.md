@@ -4,13 +4,15 @@ title: 2023년 3월 아이패드 비교/ 최저가
 permalink: /
 ---
 
-# 2023년 아이패드  요약정리
+## 2023년 아이패드  요약정리
 
-| 분류       | 해당기종                                       | 요약                                        |
-| ---------- | ---------------------------------------------- | ------------------------------------------- |
-| 보급형입문 | 아이패드10세대                                 | 조금 아쉽지만 저렴<br />인강용으로 손색없음 |
-| 중급형     | 미니 6세대<br />**에어 5세대**                 | 갖출건 다 갖춘 베스트 셀러                  |
-| 고급형     | 프로 11인치 4세대<br />**프로 12.9인치 6세대** | 더 다양한 기능과 압도적인 성능 
+| 분류    | 해당기종 | 요약    |
+| :----- | :----- | :----- |
+| 보급형입문 | 아이패드9세대<br />**아이패드10세대**            | 조금 아쉽지만 저렴<br />인강용으로 손색없음 |
+| 중급형     | 미니 6세대<br />**에어 5세대**                 | 갖출건 다 갖춘 베스트 셀러&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 고급형     | 프로 11인치 4세대<br />**프로 12.9인치 6세대** | 더 다양한 기능과 압도적인 성능              |
+
+
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
